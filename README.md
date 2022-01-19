@@ -1,7 +1,5 @@
-# Example: Markdown
+# Presta on Render
 
-To run: `npm start`. To build: `npm run build`.
+To run: `pnpm start`. To build: `pnpm run build`.
 
-## License
-
-MIT License © [Sure Thing](https://github.com/sure-thing)
+Builds to `/build`, and generates a `/build/server.js` file that contains the node server.
