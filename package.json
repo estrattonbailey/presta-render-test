@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "@presta-example/node",
+  "scripts": {
+    "start": "presta dev",
+    "build": "presta"
+  },
+  "version": null,
+  "dependencies": {
+    "@presta/html": "^0.2.1",
+    "presta": "^0.44.0"
+  },
+  "devDependencies": {
+    "@presta/adapter-node": "^0.1.0"
+  }
+}
